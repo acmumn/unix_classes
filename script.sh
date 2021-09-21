@@ -5,3 +5,4 @@ echo "test"
 echo "test"
 
 echo "hello!"
+printf '%s\n' "hey!"
