@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "hey!"
+cat content.txt
