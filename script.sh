@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "hey!"
+printf '%s\n' "hey!"
