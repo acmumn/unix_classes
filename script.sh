@@ -1,8 +1,2 @@
 #!/bin/sh
-printf '%s\n' "hey!"
-echo "hello!"
-echo "test"
-echo "test"
-
-echo "hello!"
-printf '%s\n' "hey!"
+cat content.txt
